@@ -1,0 +1,13 @@
+mailbox\ReadmailRepository.class
+mailbox\config\kafka\KafkaProcessor.class
+mailbox\Application.class
+mailbox\Readmail.class
+mailbox\ReadmailViewHandler.class
+mailbox\PolicyHandler.class
+mailbox\Saved.class
+mailbox\Mailbox.class
+mailbox\AbstractEvent.class
+mailbox\MailboxController.class
+mailbox\MailboxRepository.class
+mailbox\Sent.class
+mailbox\Readed.class
